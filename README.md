@@ -2,7 +2,7 @@
 ## Project2 - Build a Student Intervention System
 
 ### Project Highlights
-  * Analysed the pros and cons of application for each model.
+  * Analyzed the pros and cons of application for each model.
   * Used suitable performance metrics to evaluate different models.
   * Justified which model would be the best by comparing performance and computational cost.
   
