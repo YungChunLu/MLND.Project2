@@ -1,5 +1,6 @@
 # Machine Learning Nano Degree
 ## Project2 - Build a Student Intervention System
+![alt text](https://github.com/ArthurLu/MLND.Project2/blob/master/Cover%20Picture.jpg "Project2 Cover Picture")
 
 ### Project Highlights
   * Analyzed the pros and cons of application for each model.
