@@ -12,4 +12,4 @@
   * Leveraged supervised learning techniques to predicts the likelihood that a given student will pass.
 
 ## License
-The content of this repository is licensed under [MIT License](https://github.com/ArthurLu/MLND.Project2/edit/master/LICENSE.txt)
+The content of this repository is licensed under [MIT License](https://github.com/ArthurLu/MLND.Project2/blob/master/LICENSE.txt)
