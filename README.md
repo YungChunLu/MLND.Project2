@@ -10,3 +10,6 @@
 ### General Descriptions
   * Constructed an intervention system that analyzes the dataset on students' performance.
   * Leveraged supervised learning techniques to predicts the likelihood that a given student will pass.
+
+## License
+The content of this repository is licensed under [MIT License](https://github.com/ArthurLu/MLND.Project2/edit/master/LICENSE.txt)
