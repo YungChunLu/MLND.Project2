@@ -1,5 +1,5 @@
 # Machine Learning Nano Degree
-## Project2 - Build a Student Intervention System
+## Project2 - Build a Student Intervention System, [See Notebook](http://nbviewer.jupyter.org/github/ArthurLu/MLND.Project2/blob/master/student_intervention.ipynb)
 ![alt text](https://github.com/ArthurLu/MLND.Project2/blob/master/Cover%20Picture.jpg "Project2 Cover Picture")
 
 ### Project Highlights
